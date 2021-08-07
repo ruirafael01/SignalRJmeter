@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRApacheJMeter", "SignalRApacheJMeter\SignalRApacheJMeter.csproj", "{9CEDF9A0-DCA2-4C17-8341-80660F71D55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRClient", "SignalRClient\SignalRClient.csproj", "{EA62872D-CE01-40BE-9CC9-2C657308825A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEDF9A0-DCA2-4C17-8341-80660F71D55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEDF9A0-DCA2-4C17-8341-80660F71D55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEDF9A0-DCA2-4C17-8341-80660F71D55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEDF9A0-DCA2-4C17-8341-80660F71D55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA62872D-CE01-40BE-9CC9-2C657308825A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA62872D-CE01-40BE-9CC9-2C657308825A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA62872D-CE01-40BE-9CC9-2C657308825A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA62872D-CE01-40BE-9CC9-2C657308825A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D780D2D8-EDAC-4760-A0F0-52418E51D70E}
+	EndGlobalSection
+EndGlobal
